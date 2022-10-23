@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "sonoff",
-    "version": "2.5.1",
+    "version": "2.5.2",
     "news": {
       "2.5.1": {
         "en": "Fix crash case reported by Sentry",
